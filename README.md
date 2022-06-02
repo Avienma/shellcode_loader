@@ -9,6 +9,7 @@
 火绒：![图片](https://user-images.githubusercontent.com/83112602/171603373-f50c1d92-d21f-4666-badc-2b6881e3b0a6.png)
 360：![图片](https://user-images.githubusercontent.com/83112602/171603468-4cbad515-e887-4e55-b678-72e56dd13a0b.png)
 联想：![图片](https://user-images.githubusercontent.com/83112602/171603645-e25e7e99-c128-494c-83b8-ecc45e01989a.png)
+defender：![图片](https://user-images.githubusercontent.com/83112602/171606923-c4f34f41-b1ba-4510-ba7c-f3ae7c7ca370.png)
 
 
 使用方法 msf生成 payload
