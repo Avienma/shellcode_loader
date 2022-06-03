@@ -1,5 +1,5 @@
 # shellcode_loader
-一款shellcode免杀工具，免杀测试对象火绒 360 联想等其他杀软,源码暂时就不放出来了效果如图。
+一款shellcode免杀工具，免杀测试对象火绒 360 联想等其他杀软,源码暂时就不放出来了效果如图。里面加了反沙箱的代码，所以在虚拟机运行会有问题
 
 上线效果如图：
 ![图片](https://user-images.githubusercontent.com/83112602/171603146-feec6c7a-ab83-4a8f-a921-c21db33e27a8.png)
